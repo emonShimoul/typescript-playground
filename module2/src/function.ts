@@ -1,3 +1,5 @@
+/*
+
 // normal function
 function add(num1: number = 10, num2: number): number {
     return num1 + num2;
@@ -45,4 +47,4 @@ const myBestFriends = {
 const { fullName, age } = myBestFriends;
 console.log(fullName, age);
 
-
+*/
