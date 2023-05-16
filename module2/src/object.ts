@@ -1,3 +1,5 @@
+/*
+
 const user1: {
     company: 'Programming Hero';    // literal type (using a fixed value for this property)
     name: string;
@@ -13,3 +15,5 @@ const user1: {
 };
 
 // user1.age = 12;   // error: can't be assigned because it is a read-only property
+
+*/

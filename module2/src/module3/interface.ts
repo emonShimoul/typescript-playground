@@ -1,3 +1,5 @@
+/*
+
 // type alias
 type User = {
   name: string;
@@ -43,3 +45,8 @@ interface IRollNumbers {
 const rollnumbers: IRollNumbers = [1, 4, 5]; // [index]
 
 // NOTE: It is better use type alias with function and array. Interface should should be used only with object and class.
+<<<<<<< HEAD
+=======
+
+*/
+>>>>>>> b6bb313393bb74d1786d42ff4e40448bfce51d88
